@@ -1,0 +1,16 @@
+/* Layout.css */
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 10px;
+  }
+  
+  .header button {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    text-align: left;
+  }
+  
+    
